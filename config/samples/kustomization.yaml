@@ -1,0 +1,4 @@
+## Append samples of your project ##
+resources:
+- timeline_v1alpha1_kubetimeline.yaml
+# +kubebuilder:scaffold:manifestskustomizesamples

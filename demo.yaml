@@ -1,0 +1,9 @@
+apiVersion: timeline.thinnesen.com/v1alpha1
+kind: KubeTimeline
+metadata:
+  name: demo-timeline
+  namespace: "default"
+spec:
+  clusterWide: true
+
+

@@ -1,0 +1,9 @@
+apiVersion: timeline.thinnesen.com/v1alpha1
+kind: KubeTimeline
+metadata:
+  labels:
+    app.kubernetes.io/name: kubetimeline
+    app.kubernetes.io/managed-by: kustomize
+  name: kubetimeline-sample
+spec:
+  # TODO(user): Add fields here
